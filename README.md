@@ -36,3 +36,6 @@ samples, guidance on mobile development, and a full API reference.
   flutter run
   ```
   Connect a device or start an emulator/simulator.
+
+Demo video: https://drive.google.com/file/d/1kFwhRT0zTP7YuXfug_eOlqw2HujoAbGW/view?usp=sharing
+
